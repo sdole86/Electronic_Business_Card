@@ -13,10 +13,6 @@ function App() {
       <TitleCard />
       <Main />
       <Footer />
-
-
-
-
     </div>
   )
 }
